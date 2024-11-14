@@ -4,9 +4,9 @@
 
 ## About Me:
 
-- 👩‍💻 I’m currently working on **Python, PowerBI and SQL** projects
-- 💻 I’m currently learning **Alteryx and PowerApps**
-- 💼 I’m looking for opportunities in **Data Analytics** field
+- 👩‍💻 I’m currently working on **Python, PowerBI, Alteryx and SQL** projects
+- 💻 Presently expanding my expertise in **Azure cloud services**
+- 💼 Open for opportunities in **Data Analytics** field
 <!-- - 👯 I’m looking to collaborate on **Data Analysis** projects-->
 
 <!--
