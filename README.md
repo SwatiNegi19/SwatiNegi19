@@ -6,7 +6,7 @@
 
 - 👩‍💻 I’m currently working on **Python, PowerBI, Alteryx and SQL** projects
 - 💻 Presently expanding my expertise in **Azure cloud services**
-- 💼 Open for opportunities in **Data Analytics** field
+- 💼 Open for opportunities in **Data/Business Analytics** field
 <!-- - 👯 I’m looking to collaborate on **Data Analysis** projects-->
 
 <!--
